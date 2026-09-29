@@ -36,7 +36,9 @@ If your GitHub verification is delayed and you need immediate autocomplete capab
 When you need to handle deep codebase debugging, refactor multiple files at once, run compiler test suites automatically, or execute system commands safely, you will use [OpenCode](https://ai.sulat.com/the-definitive-guide-to-opencode-from-first-install-to-production-workflows-aae1e95855fb).
 OpenCode operates locally via an interactive terminal interface (TUI) or an IDE side-panel, serving as the execution harness for your high-powered model subscriptions and free API keys.
 
-## 🔑 Setting Up Your Free Cloud Engines## 1. Google AI Studio & Google Antigravity
+## 🔑 Setting Up Your Free Cloud Engines
+
+## 1. Google AI Studio & Google Antigravity
 Google offers student-accessible tiers powered by their latest reasoning architectures (Gemini Flash & Pro).
 
 * For the IDE & CLI Environment: Authenticate the native Google Antigravity tool suite using your primary Google account. This gives you baseline agentic access to file structures and terminal actions.
